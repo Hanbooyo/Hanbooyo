@@ -1,9 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Han%20Bu-Young&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ### Hi there 👋
 
 <!--
 **Hanbooyo/Hanbooyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://www.instagram.com/han_byfl/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=plastic&logo=Instagram&logoColor=#FFFFFF"/></a>
 
 Here are some ideas to get you started:
 
@@ -16,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanbooyo&show_icons=true&theme=radical)
