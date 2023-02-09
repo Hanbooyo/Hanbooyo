@@ -9,9 +9,12 @@
   <br/> 
   <br/> 
   
-  👍 SNS
+  👍 SNS & Blog
 
   <a href="https://www.instagram.com/han_byfl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"></a>
+    <a href="https:/1boo0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=Storyblok&logoColor=white"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"></a>
+  
 
   <br/> 
   <br/> 
@@ -29,6 +32,13 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Ajax-FF9E0F?style=plastic&logo=Ajax&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-6DB33F?style=plastic&logo=JSP&logoColor=white">
+  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=ApacheTomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=plastic&logo=EclipseIDE&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=plastic&logo=IntelliJIDEA&logoColor=white">
+  
+
   <br/> 
   <br/> 
   <br/> <br/> 
