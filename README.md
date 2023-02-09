@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=plastic&logo=Android Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=plastic&logo=Android Studio&logoColor=white">
+ 
 <br/> <br/> <br/> <br/> <br/> 
   
   📮 E-mail 📮  
