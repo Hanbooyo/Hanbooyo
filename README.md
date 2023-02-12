@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white">  
   <img src="https://img.shields.io/badge/Ajax-FF9E0F?style=plastic&logo=Ajax&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-6DB33F?style=plastic&logo=JSP&logoColor=white">
   <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=ApacheTomcat&logoColor=white">
