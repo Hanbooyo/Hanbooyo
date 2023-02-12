@@ -12,7 +12,7 @@
   👍 SNS & Blog
 
   <a href="https://www.instagram.com/han_byfl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"></a>
-    <a href="https:/1boo0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=Storyblok&logoColor=white"></a>
+    <a href="https://1boo0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=Storyblok&logoColor=white"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"></a>
   
 
