@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Han%20Booyo&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Han%20Bu-Young&fontSize=90" />
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanbooyo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
@@ -15,8 +15,6 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"></a>
   
 
-  <br/> 
-  <br/> 
   <br/> 
   <br/> 
   <br/> 
@@ -41,7 +39,6 @@
 <br/> 
   <br/> 
   <br/> 
-  <br/> <br/> 
 
   💡 used at least once
 <br/> 
@@ -52,7 +49,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSql-2C2255?style=plastic&logo=PostgreSql&logoColor=white">
  
-<br/> <br/> <br/> <br/> <br/> 
+<br/> <br/> <br/> 
   
   📮 E-mail 📮  
   qnfudk@naver.com
